@@ -1,8 +1,8 @@
 # Provider Configuration
   provider aws {
   region     = "ap-south-1"
-  access_key = "AKIAI4ZBWX62FFRY75GA"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 # generic for any region.
